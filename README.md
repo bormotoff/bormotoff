@@ -1,30 +1,8 @@
-<img src="https://raw.githubusercontent.com/bormotoff/bormotoff/output/snake.svg" alt="Snake animation" />
+<h1 align="center">Olá! 👋 Sou Pablo Bormotoff</h1> <p align="center"> Analista | Cientista | Engenheiro de dados | De São Paulo, Brasil </p>
 
-###
+<h2 align="center">Sobre mim</h2> <p align="center">💻 Cientista de Dados na Usadosbr<br>🎓 Pós-graduando em Ciência de Dados e Analytics<br>🏅 Certificações: CS50x, CS50, NASBA, AWS e Google<br>🌱 Sempre aprendendo e criando projetos inovadores<br>🌍 Idiomas: Português, Inglês e Espanhol<br>⚡ Fato curioso: Sou um jogador de Magic, quebrado! 😄</p>
 
-<br clear="both">
-
-<h1 align="left">Hello! Nice running into you.</h1>
-
-###
-
-<p align="left">Welcome to my page!<br>I'm Pablo Bormotoff, Developer, Analyst and Data Scientist from São Paulo, Brazil.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2014<br>📚 Currently, I am pursuing a postgraduate degree in Data Science and Analytics.<br>💼 Certificates: CS50X, CS50, NASBA, AWS, and Google.<br>🔭 I’m currently working at Usadosbr  as an Data Scientist.<br>⚡ Fun fact: I'm a broke Magic player.<br>💬 Languages: Portuguese, English, and Spanish.</p>
-
-###
-
-<h2 align="left">I work with</h2>
-
-###
-
-<div align="center">
+<<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -66,13 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
 </div>
-
-
-###
-
-<p align="left">I get it; I'm a bit antisocial. I don't have X or Facebook, so you can find me on LinkedIn or just shoot me a message. I'm here to answer any questions and open to new opportunities.</p>
-
-###
+<p align="center">Meus contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bormotoff-pablo/" target="_blank">
@@ -85,5 +57,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
