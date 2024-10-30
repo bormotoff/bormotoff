@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Sou Pablo Bormotoff</h1> <p align="center"> Analista | Cientista | Engenheiro de dados | De São Paulo, Brasil </p>
+<h1 align="center">Olá! 👋 Sou Pablo Bormotoff</h1> <p align="center"> Analista | Engenheiro de dados | De São Paulo, Brasil </p>
 
 <h2 align="center">Sobre mim</h2> <p align="center">🎓 Pós-graduando em Ciência de Dados e Analytics<br>🏅 Certificações: CS50x, CS50, NASBA, AWS e Google<br>🌱 Sempre aprendendo e criando projetos inovadores<br>🌍 Idiomas: Português, Inglês e Espanhol<br>⚡ Fato curioso: Sou um jogador de Magic, quebrado! 😄</p>
 
